@@ -9,3 +9,21 @@ C:\Healthcare_sd11\Healthcare\DBRepo\obj\Debug\net8.0\DBRepo.dll
 C:\Healthcare_sd11\Healthcare\DBRepo\obj\Debug\net8.0\refint\DBRepo.dll
 C:\Healthcare_sd11\Healthcare\DBRepo\obj\Debug\net8.0\DBRepo.pdb
 C:\Healthcare_sd11\Healthcare\DBRepo\obj\Debug\net8.0\ref\DBRepo.dll
+E:\Working Project\2025\HCLHC\Healthcare\DBRepo\bin\Debug\net8.0\DBRepo.deps.json
+E:\Working Project\2025\HCLHC\Healthcare\DBRepo\bin\Debug\net8.0\DBRepo.runtimeconfig.json
+E:\Working Project\2025\HCLHC\Healthcare\DBRepo\bin\Debug\net8.0\DBRepo.dll
+E:\Working Project\2025\HCLHC\Healthcare\DBRepo\bin\Debug\net8.0\DBRepo.pdb
+E:\Working Project\2025\HCLHC\Healthcare\DBRepo\bin\Debug\net8.0\model.dll
+E:\Working Project\2025\HCLHC\Healthcare\DBRepo\bin\Debug\net8.0\model.pdb
+E:\Working Project\2025\HCLHC\Healthcare\DBRepo\obj\Debug\net8.0\DBRepo.csproj.AssemblyReference.cache
+E:\Working Project\2025\HCLHC\Healthcare\DBRepo\obj\Debug\net8.0\DBRepo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Working Project\2025\HCLHC\Healthcare\DBRepo\obj\Debug\net8.0\DBRepo.AssemblyInfoInputs.cache
+E:\Working Project\2025\HCLHC\Healthcare\DBRepo\obj\Debug\net8.0\DBRepo.AssemblyInfo.cs
+E:\Working Project\2025\HCLHC\Healthcare\DBRepo\obj\Debug\net8.0\DBRepo.csproj.CoreCompileInputs.cache
+E:\Working Project\2025\HCLHC\Healthcare\DBRepo\obj\Debug\net8.0\DBRepo.sourcelink.json
+E:\Working Project\2025\HCLHC\Healthcare\DBRepo\obj\Debug\net8.0\DBRepo.csproj.Up2Date
+E:\Working Project\2025\HCLHC\Healthcare\DBRepo\obj\Debug\net8.0\DBRepo.dll
+E:\Working Project\2025\HCLHC\Healthcare\DBRepo\obj\Debug\net8.0\refint\DBRepo.dll
+E:\Working Project\2025\HCLHC\Healthcare\DBRepo\obj\Debug\net8.0\DBRepo.pdb
+E:\Working Project\2025\HCLHC\Healthcare\DBRepo\obj\Debug\net8.0\DBRepo.genruntimeconfig.cache
+E:\Working Project\2025\HCLHC\Healthcare\DBRepo\obj\Debug\net8.0\ref\DBRepo.dll
