@@ -1,0 +1,11 @@
+C:\Healthcare_sd11\Healthcare\DBRepo\bin\Debug\net8.0\DBRepo.deps.json
+C:\Healthcare_sd11\Healthcare\DBRepo\bin\Debug\net8.0\DBRepo.dll
+C:\Healthcare_sd11\Healthcare\DBRepo\bin\Debug\net8.0\DBRepo.pdb
+C:\Healthcare_sd11\Healthcare\DBRepo\obj\Debug\net8.0\DBRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Healthcare_sd11\Healthcare\DBRepo\obj\Debug\net8.0\DBRepo.AssemblyInfoInputs.cache
+C:\Healthcare_sd11\Healthcare\DBRepo\obj\Debug\net8.0\DBRepo.AssemblyInfo.cs
+C:\Healthcare_sd11\Healthcare\DBRepo\obj\Debug\net8.0\DBRepo.csproj.CoreCompileInputs.cache
+C:\Healthcare_sd11\Healthcare\DBRepo\obj\Debug\net8.0\DBRepo.dll
+C:\Healthcare_sd11\Healthcare\DBRepo\obj\Debug\net8.0\refint\DBRepo.dll
+C:\Healthcare_sd11\Healthcare\DBRepo\obj\Debug\net8.0\DBRepo.pdb
+C:\Healthcare_sd11\Healthcare\DBRepo\obj\Debug\net8.0\ref\DBRepo.dll

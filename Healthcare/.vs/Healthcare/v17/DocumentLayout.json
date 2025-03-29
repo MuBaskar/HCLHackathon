@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Healthcare_sd11\\Healthcare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7503B0-0058-4219-941B-BCAFF29EB4EC}|Healthcare\\Healthcare.csproj|c:\\healthcare_sd11\\healthcare\\healthcare\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7503B0-0058-4219-941B-BCAFF29EB4EC}|Healthcare\\Healthcare.csproj|solutionrelative:healthcare\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7503B0-0058-4219-941B-BCAFF29EB4EC}|Healthcare\\Healthcare.csproj|c:\\healthcare_sd11\\healthcare\\healthcare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7503B0-0058-4219-941B-BCAFF29EB4EC}|Healthcare\\Healthcare.csproj|solutionrelative:healthcare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7503B0-0058-4219-941B-BCAFF29EB4EC}|Healthcare\\Healthcare.csproj|c:\\healthcare_sd11\\healthcare\\healthcare\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A7503B0-0058-4219-941B-BCAFF29EB4EC}|Healthcare\\Healthcare.csproj|solutionrelative:healthcare\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0B749E-3FED-4CAD-97C1-46695AF2B0D8}|DBRepo\\DBRepo.csproj|c:\\healthcare_sd11\\healthcare\\dbrepo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0B749E-3FED-4CAD-97C1-46695AF2B0D8}|DBRepo\\DBRepo.csproj|solutionrelative:dbrepo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B066F0-E600-4210-9866-F3753334B985}|model\\model.csproj|c:\\healthcare_sd11\\healthcare\\model\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B066F0-E600-4210-9866-F3753334B985}|model\\model.csproj|solutionrelative:model\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7503B0-0058-4219-941B-BCAFF29EB4EC}|Healthcare\\Healthcare.csproj|c:\\healthcare_sd11\\healthcare\\healthcare\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7503B0-0058-4219-941B-BCAFF29EB4EC}|Healthcare\\Healthcare.csproj|solutionrelative:healthcare\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7503B0-0058-4219-941B-BCAFF29EB4EC}|Healthcare\\Healthcare.csproj|c:\\healthcare_sd11\\healthcare\\healthcare\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7503B0-0058-4219-941B-BCAFF29EB4EC}|Healthcare\\Healthcare.csproj|solutionrelative:healthcare\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Healthcare_sd11\\Healthcare\\Healthcare\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Healthcare\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Healthcare_sd11\\Healthcare\\Healthcare\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Healthcare\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T08:12:59.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Healthcare_sd11\\Healthcare\\DBRepo\\Class1.cs",
+              "RelativeDocumentMoniker": "DBRepo\\Class1.cs",
+              "ToolTip": "C:\\Healthcare_sd11\\Healthcare\\DBRepo\\Class1.cs",
+              "RelativeToolTip": "DBRepo\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T08:29:00.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Healthcare_sd11\\Healthcare\\model\\Class1.cs",
+              "RelativeDocumentMoniker": "model\\Class1.cs",
+              "ToolTip": "C:\\Healthcare_sd11\\Healthcare\\model\\Class1.cs",
+              "RelativeToolTip": "model\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T08:27:59.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Healthcare_sd11\\Healthcare\\Healthcare\\Program.cs",
+              "RelativeDocumentMoniker": "Healthcare\\Program.cs",
+              "ToolTip": "C:\\Healthcare_sd11\\Healthcare\\Healthcare\\Program.cs",
+              "RelativeToolTip": "Healthcare\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T08:09:33.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Healthcare_sd11\\Healthcare\\Healthcare\\appsettings.json",
+              "RelativeDocumentMoniker": "Healthcare\\appsettings.json",
+              "ToolTip": "C:\\Healthcare_sd11\\Healthcare\\Healthcare\\appsettings.json",
+              "RelativeToolTip": "Healthcare\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T08:09:55.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Healthcare_sd11\\Healthcare\\Healthcare\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Healthcare\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Healthcare_sd11\\Healthcare\\Healthcare\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Healthcare\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T08:07:24.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Healthcare_sd11\\Healthcare\\Healthcare\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Healthcare\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Healthcare_sd11\\Healthcare\\Healthcare\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Healthcare\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T08:03:03.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
