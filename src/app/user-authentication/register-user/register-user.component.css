@@ -1,0 +1,58 @@
+/* Style the card for form */
+.card {
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Add spacing to the form */
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  /* Style for error messages */
+  .text-danger {
+    font-size: 12px;
+  }
+
+  .overlay {
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .popup {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    width: 300px;
+  }
+  
+  .success {
+    border: 2px solid green;
+  }
+  
+  .failure {
+    border: 2px solid red;
+  }
+  
+  button {
+    padding: 10px 15px;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #555;
+  }
+  
+  
+  
