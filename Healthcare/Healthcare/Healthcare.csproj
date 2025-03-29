@@ -24,6 +24,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DBRepo\DBRepo.csproj" />
+    <ProjectReference Include="..\Service\Service.csproj" />
   </ItemGroup>
 
 </Project>

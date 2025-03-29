@@ -6,6 +6,7 @@ using Microsoft.OpenApi.Models;
 using System;
 using System.Text;
 using Microsoft.EntityFrameworkCore;
+using Service;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -64,7 +65,11 @@ builder.Services.AddSwaggerGen(options =>
         }
     });
 });
+builder.Services.AddScoped<ILoginService, LoginService>();
+builder.Services.AddScoped<ILogin, Login>();
 var app = builder.Build();
+
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

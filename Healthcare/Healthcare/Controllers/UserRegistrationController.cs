@@ -9,20 +9,20 @@ namespace Healthcare.Controllers
     public class UserRegistrationController : ControllerBase
     {
 
-        private readonly IUserRepository _repositoryFactory;
+        //private readonly IUserRepository _repositoryFactory;
 
-        public UserController(IRepositoryFactory repositoryFactory)
-        {
-            _repositoryFactory = repositoryFactory;
-        }
+        //public UserController(IRepositoryFactory repositoryFactory)
+        //{
+        //    _repositoryFactory = repositoryFactory;
+        //}
 
-        [HttpPost]
-        public async Task<ActionResult> AddUser(User user)
-        {
-            var repository = _repositoryFactory.CreateUserRepository();
-            await repository.AddUser(user);
-            return CreatedAtAction(nameof(GetUser), new { id = user.Id }, user);
-        }
+        //[HttpPost]
+        //public async Task<ActionResult> AddUser(User user)
+        //{
+        //    var repository = _repositoryFactory.CreateUserRepository();
+        //    await repository.AddUser(user);
+        //    return CreatedAtAction(nameof(GetUser), new { id = user.Id }, user);
+        //}
 
     }
 }

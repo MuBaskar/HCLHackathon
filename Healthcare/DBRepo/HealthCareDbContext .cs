@@ -14,13 +14,15 @@ namespace DBRepo
         public DbSet<Status> Status { get; set; }
         public DbSet<Message> Message { get; set; }
 
+
+        public HealthCareDbContext(DbContextOptions options) : base(options) { }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            if (!optionsBuilder.IsConfigured)
-            {
+            //if (!optionsBuilder.IsConfigured)
+            //{
     
-                optionsBuilder.UseSqlServer("Server=DESKTOP-M0DCM1O;Database=HealthCare;Trusted_Connection=True; Encrypt=false");
-            }
+            //    optionsBuilder.UseSqlServer("Server=DESKTOP-M0DCM1O;Database=HealthCare;Trusted_Connection=True; Encrypt=false");
+            //}
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
