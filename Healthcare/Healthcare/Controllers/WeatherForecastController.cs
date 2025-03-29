@@ -1,9 +1,11 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Filters;
 using System;
 using System.IO;
 using static System.Net.Mime.MediaTypeNames;
 using static System.Net.WebRequestMethods;
+using Healthcare.Filters;
 
 namespace Healthcare.Controllers
 {
@@ -29,10 +31,6 @@ namespace Healthcare.Controllers
         [Authorize]
         public IEnumerable<WeatherForecast> Get()
         {
-            string logFilePath = "log.txt";
-
-         
-
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
                 Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
